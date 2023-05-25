@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Devlopment Link
 
-(https://fitnesss-gym-website.netlify.app/)
+https://fitnesss-gym-website.netlify.app/
 
 
 ## Available Scripts
