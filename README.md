@@ -4,9 +4,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Devlopment Link
-
 https://fitnesss-gym-website.netlify.app/
-
 
 ## Available Scripts
 
@@ -21,6 +19,13 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
+
+
+Screenshots
+![Screenshot (90)](https://github.com/Sarthak-16XO/gym-website/assets/90129271/85eb5797-58cb-4db8-b47b-0e6dee001bc3)
+![Screenshot (91)](https://github.com/Sarthak-16XO/gym-website/assets/90129271/01cd7b5f-e066-4f67-afc5-5b1cde0c1451)
+![Screenshot (92)](https://github.com/Sarthak-16XO/gym-website/assets/90129271/84f88e3e-a947-4875-92f0-b34dad2f6cff)
+
 
 ### `npm test`
 
